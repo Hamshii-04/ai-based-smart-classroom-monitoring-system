@@ -1,0 +1,11 @@
+venv310/
+.vscode/
+
+*.onnx
+*.pt
+*.pth
+*.h5
+*.pkl
+
+__pycache__/
+*.pyc
